@@ -3,32 +3,38 @@
       {
         "id" : 1,
         "title" : "",
-        "desc" : "He who fights monsters should see to it that he himself does not become a monster. And if you gaze for long into an abyss, the abyss gazes also into you."
+        "desc" : "He who fights monsters should see to it that he himself does not become a monster. And if you gaze for long into an abyss, the abyss gazes also into you.",
+        "author" : ""
       },
       {
         "id" : 2,
         "title" : "",
-        "desc" : "I have life and I have death. Neither particularly suits me."
+        "desc" : "I have life and I have death. Neither particularly suits me.",
+        "author" : ""
       },
       {
         "id" : 3,
         "title" : "",
-        "desc" : "The best argument against democracy is a 5 minute conversation with the average voter"
+        "desc" : "The best argument against democracy is a 5 minute conversation with the average voter",
+        "author" : ""
       },
       {
         "id" : 4,
         "title" : "",
-        "desc" : "No matter how much you think you love somebody, you'll step back when the pool of their blood edges up too close."
+        "desc" : "No matter how much you think you love somebody, you'll step back when the pool of their blood edges up too close.",
+        "author" : ""
       },
       {
         "id" : 5,
         "title" : "",
-        "desc" : "It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace."
+        "desc" : "It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace.",
+        "author" : ""
       },
       {
         "id" : 6,
         "title" : "",
-        "desc" : "In a world where billions believe their deity conceived a mortal child with a virgin human, it's stunning how little imagination most people display."
+        "desc" : "In a world where billions believe their deity conceived a mortal child with a virgin human, it's stunning how little imagination most people display.",
+        "author" : ""
       }
   ]
 }
