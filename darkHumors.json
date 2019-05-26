@@ -3,27 +3,32 @@
       {
         "id" : 1,
         "title" : "",
-        "desc" : ""
+        "desc" : "He who fights monsters should see to it that he himself does not become a monster. And if you gaze for long into an abyss, the abyss gazes also into you."
       },
       {
         "id" : 2,
         "title" : "",
-        "desc" : ""
+        "desc" : "I have life and I have death. Neither particularly suits me."
       },
       {
         "id" : 3,
         "title" : "",
-        "desc" : ""
+        "desc" : "The best argument against democracy is a 5 minute conversation with the average voter"
       },
       {
         "id" : 4,
         "title" : "",
-        "desc" : ""
+        "desc" : "No matter how much you think you love somebody, you'll step back when the pool of their blood edges up too close."
       },
       {
         "id" : 5,
         "title" : "",
-        "desc" : ""
+        "desc" : "It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace."
       },
+      {
+        "id" : 6,
+        "title" : "",
+        "desc" : "In a world where billions believe their deity conceived a mortal child with a virgin human, it's stunning how little imagination most people display."
+      }
   ]
 }
